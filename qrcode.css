@@ -16,6 +16,7 @@ div.principal {
     background-color: white;
     display: block;
     margin: 170px auto;
+    padding-top: 23px;
     border-radius: 20px;
     width: 400px;
     height: 600px;
@@ -23,7 +24,6 @@ div.principal {
 
 img {
     width: 350px;
-    padding-top: 23px;
     display: block;
     margin: auto;
     border-radius: 20px;
